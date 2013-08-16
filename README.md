@@ -1,0 +1,4 @@
+gostbook
+========
+
+Golang Sample App
